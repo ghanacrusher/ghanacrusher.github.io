@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 Page not found - CAG machinery</title>
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<style type="text/css">
+h1{ font-size:20px}
+h2{ font-size:16px}
+#error{ width:960px; margin:0 auto; padding-top:50px}
+.err_left{ float:left; width:480px; margin-right:30px; padding-right:40px; border-right:1px solid #eee}
+.err_left img{ width:100%}
+.err_right{ float:left;width:400px}
+.err_right ul li { list-style:disc; padding:3px 0}
+.err_right ul li a{ font-size:12px; color:#0d4c6b; text-decoration:none; font-weight:bold }
+.err_right ul li a:hover{ text-decoration:underline}
+</style>
+</head>
+<body>
+<div id="error">
+<div class="err_left">
+<h1>404 Page not found</h1>
+<p>Sorry, this page does not exist, if there are any questions, you can contact us.<a href="/">click here</a> to return home</p>
+<p><img src="/images/error.jpg" /></p>
+</div>
+<div class="err_right">
+<h2>Hot Products</h2>
+<ul>
+<li><a href="/products/stone-crusher/jaw-crusher.html"  title="jaw crusher">jaw crusher</a></li>
+<li><a href="/products/stone-crusher/impact-crusher.html"  title="impact crusher">impact crusher</a></li>
+<li><a href="/products/stone-crusher/cone-crusher.html"  title="cone crusher">cone crusher</a></li>
+<li><a href="/products/stone-crusher/artificial-sand-making-machine.html"  title="artificial sand making machine">artificial sand making machine</a></li>
+<li><a href="/products/stone-crusher/mobile-construction-waste-crushing-station.html"  title="mobile construction waste crushing station">mobile construction waste crushing station</a></li>
+<li><a href="/products/stone-crusher/mobile-jaw-crusher-station.html"  title="mobile jaw crusher station">mobile jaw crusher station</a></li>
+<li><a href="/products/stone-crusher/mobile-impact-crusher-station.html"  title="mobile impact crusher station">mobile impact crusher station</a></li>
+<li><a href="/products/stone-crusher/mobile-cone-crusher-station.html"  title="mobile cone crusher station">mobile cone crusher station</a></li>
+<li><a href="/products/milling-equipment/raymond-mill.html"  title="raymond mill">raymond mill</a></li>
+<li><a href="/products/milling-equipment/ball-mill.html"  title="ball mill">ball mill</a></li>
+
+</ul>
+<h2>Solutions</h2>
+<ul>
+<li><a href="/products/production-line/stone-production-line.html"  title="stone production line">stone production line</a></li>
+<li><a href="/products/production-line/sand-production-line.html"  title="sand production line">sand production line</a></li>
+<li><a href="/products/production-line/beneficiation-production-line.html"  title="beneficiation production line">beneficiation production line</a></li>
+<li><a href="/products/production-line/cement-production-line.html"  title="cement production line">cement production line</a></li>
+<li><a href="/products/production-line/mobile-construction-waste-recycling-production-line.html"  title="mobile construction waste recycling production line">mobile construction waste recycling production line</a></li>
+
+</ul>
+</div>
+</div>
+</body>
+</html>
